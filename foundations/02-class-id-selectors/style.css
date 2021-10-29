@@ -1,0 +1,19 @@
+.class_one {
+    background-color:lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#id_one {
+    color: blue;
+    font-size: 36px;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#id_two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
